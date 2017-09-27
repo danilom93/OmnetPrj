@@ -1,0 +1,1 @@
+-g -Wall   -fno-stack-protector  -DHAVE_PCAP -DXMLPARSER=expat -DWITH_PARSIM -DWITH_NETBUILDER  -I../../inet/src -I. -I/Users/danilo/omnetpp-4.6/include

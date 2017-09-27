@@ -1,0 +1,296 @@
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---
+
+---Provo a connettermi...---
+
+---Connesso...---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> FAIL---
+
+---Accensione rifiutata---
+TryOn, Id=0
+---Ricevuto messaggio --> OK---
+
+---Accensione accettata---
+
+---Socket chiusa... evento successivo programmato---

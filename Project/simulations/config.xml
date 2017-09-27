@@ -1,0 +1,80 @@
+<config>
+		
+	
+	<interface hosts="router1" 					names="eth1" 	address="x.x.x.x"   		netmask="x.x.x.x"/>
+	<interface hosts="router1" 					names="eth0" 	address="x.x.x.x"   		netmask="x.x.x.x"/>
+	<interface hosts="InternetServer[*]"  		names="eth0" 	address="x.x.x.x"   		netmask="x.x.x.x"/>	
+		
+	<interface hosts="router"  					names="eth1" 	address="x.x.x.x"   		netmask="x.x.x.x"/>
+		
+	<interface hosts="router"  					names="eth0" 	address="10.10.10.1"   		netmask="255.255.255.240"/>
+	
+	<interface hosts="flat[0].routerFlat"  		names="eth0" 	address="10.10.10.2"   		netmask="255.255.255.240"/>
+	<interface hosts="flat[1].routerFlat"  		names="eth0" 	address="10.10.10.3"   		netmask="255.255.255.240"/>
+	<interface hosts="flat[2].routerFlat"  		names="eth0" 	address="10.10.10.4"   		netmask="255.255.255.240"/>
+	
+	
+	<interface hosts="flat[0].routerFlat"  		names="eth1" 	address="192.168.0.1"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[0].enClient_1[*]"  		 			address="192.168.0.x"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[0].wHost_1[*]"	  		 			address="192.168.0.x"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[0].routerFlat"  		names="eth2" 	address="192.168.0.128"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[0].enServer"  		names="eth0"	address="192.168.0.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[0].cHost[*]"  		names="eth0"	address="192.168.0.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[0].hdTv[*]"  		names="eth0"	address="192.168.0.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[0].enClient_2[*]"  	names="eth0"	address="192.168.0.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[0].routerFlat"  		names="eth3" 	address="192.168.0.192"   	netmask="255.255.255.248"/>
+	<interface hosts="flat[0].tvCc.dvr"  		names="eth0"	address="192.168.0.193"   	netmask="255.255.255.248"/>
+	<interface hosts="flat[0].tvCc.ipCam[*]"  	names="eth0"	address="192.168.0.x"   	netmask="255.255.255.248"/>
+	
+	
+	<interface hosts="flat[1].routerFlat"  		names="eth1" 	address="192.168.1.1"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[1].enClient_1[*]"  		 			address="192.168.1.x"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[1].wHost_1[*]"	  		 			address="192.168.1.x"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[1].routerFlat"  		names="eth2" 	address="192.168.1.128"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[1].enServer"  		names="eth0"	address="192.168.1.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[1].cHost[*]"  		names="eth0"	address="192.168.1.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[1].hdTv[*]"  		names="eth0"	address="192.168.1.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[1].enClient_2[*]"  	names="eth0"	address="192.168.1.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[1].routerFlat"  		names="eth3" 	address="192.168.1.192"   	netmask="255.255.255.248"/>
+	<interface hosts="flat[1].tvCc.dvr"  		names="eth0"	address="192.168.1.193"   	netmask="255.255.255.248"/>
+	<interface hosts="flat[1].tvCc.ipCam[*]"  	names="eth0"	address="192.168.1.x"   	netmask="255.255.255.248"/>
+	
+	
+	<interface hosts="flat[2].routerFlat"  		names="eth1" 	address="192.168.2.1"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[2].enClient_1[*]"  		 			address="192.168.2.x"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[2].wHost_1[*]"	  		 			address="192.168.2.x"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[2].routerFlat"  		names="eth2" 	address="192.168.2.128"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[2].enServer"  		names="eth0"	address="192.168.2.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[2].cHost[*]"  		names="eth0"	address="192.168.2.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[2].hdTv[*]"  		names="eth0"	address="192.168.2.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[2].enClient_2[*]"  	names="eth0"	address="192.168.2.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[2].routerFlat"  		names="eth3" 	address="192.168.2.192"   	netmask="255.255.255.248"/>
+	<interface hosts="flat[2].tvCc.ipCam[*]"  	names="eth0"	address="192.168.2.x"   	netmask="255.255.255.248"/>
+	<interface hosts="flat[2].tvCc.dvr"  		names="eth0"	address="192.168.2.193"   	netmask="255.255.255.248"/>
+	
+	
+	<interface hosts="flat[3].routerFlat"  		names="eth1" 	address="192.168.3.1"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[3].enClient_1[*]"  		 			address="192.168.3.x"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[3].wHost_1[*]"	  		 			address="192.168.3.x"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[3].routerFlat"  		names="eth2" 	address="192.168.3.128"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[3].enServer"  		names="eth0"	address="192.168.3.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[3].cHost[*]"  		names="eth0"	address="192.168.3.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[3].hdTv[*]"  		names="eth0"	address="192.168.3.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[3].enClient_2[*]"  	names="eth0"	address="192.168.3.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[3].routerFlat"  		names="eth3" 	address="192.168.3.192"   	netmask="255.255.255.248"/>
+	<interface hosts="flat[3].tvCc.ipCam[*]"  	names="eth0"	address="192.168.3.x"   	netmask="255.255.255.248"/>
+	<interface hosts="flat[3].tvCc.dvr"  		names="eth0"	address="192.168.3.193"   	netmask="255.255.255.248"/>
+	
+	
+	<interface hosts="flat[4].routerFlat"  		names="eth1" 	address="192.168.4.1"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[4].enClient_1[*]"  		 			address="192.168.4.x"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[4].wHost_1[*]"	  		 			address="192.168.4.x"   	netmask="255.255.255.128"/>
+	<interface hosts="flat[4].routerFlat"  		names="eth2" 	address="192.168.4.128"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[4].enServer"  		names="eth0"	address="192.168.4.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[4].cHost[*]"  		names="eth0"	address="192.168.4.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[4].hdTv[*]"  		names="eth0"	address="192.168.4.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[4].enClient_2[*]"  	names="eth0"	address="192.168.4.x"   	netmask="255.255.255.192"/>
+	<interface hosts="flat[4].routerFlat"  		names="eth3" 	address="192.168.4.192"   	netmask="255.255.255.248"/>
+	<interface hosts="flat[4].tvCc.ipCam[*]"  	names="eth0"	address="192.168.4.x"   	netmask="255.255.255.248"/>
+	<interface hosts="flat[4].tvCc.dvr"  		names="eth0"	address="192.168.4.193"   	netmask="255.255.255.248"/>
+</config>

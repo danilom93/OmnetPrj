@@ -1,0 +1,14 @@
+<config>
+
+	<interface hosts="router"  			names="eth0" 	address="192.168.1.x"   	netmask="255.255.255.x"	/>
+	<interface hosts="router" 			names="eth1" 	address="192.168.1.x"   	netmask="255.255.255.x"	/>
+  	<interface hosts="Server" 							address="192.168.1.x" 		netmask="255.255.255.x" />
+  	<interface hosts="client*" 							address="192.168.1.x" 		netmask="255.255.255.x" />
+	
+  	<wireless id="W1" hosts="client* accessPoint"/>
+  	<wireless id="W2" hosts="Server accessPoint1"/>
+
+  	<route hosts="client*" destination="*" interface="wlan0"/>
+  	<route hosts="Server" destination="*" interface="wlan0"/>
+  	
+</config>
